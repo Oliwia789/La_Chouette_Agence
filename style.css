@@ -704,6 +704,7 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    padding-top: 5%;
 }
 
 h2 {
@@ -829,6 +830,10 @@ h4 {
 
 .bg-presentation {
     background-image: url("img/image-de-presentation.bmp");
+}
+
+aside {
+    padding: 5%;
 }
 
 @media (max-width: 1024px) {
@@ -1034,11 +1039,45 @@ h4 {
     }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 450px) {
     .bloc {
         padding-left: 0;
         padding-right: 0;
     }
+    .bloc-sm {
+        padding-bottom: 0;
+    }
+    figure {
+        margin: revert;
+        height: 480px;
+    }
+    .portfolio-row {
+        margin-top: 20px;
+        margin-bottom: 0;
+    }
+    .third-card {
+        margin-bottom: 40px;
+    }
+    .tight-width-whitespace {
+        margin: -15px;
+    }
+    #last-contact-container {
+        padding: 5%;
+    }
+    .social {
+        margin-bottom: 10%;
+        margin-top: 10%;
+    }
+    .col-sm-3 {
+        margin-top: 5%;
+    }
+    .bloc-title-contact {
+        padding: 0 10% 0 10%;
+    }
+    .title-contact {
+        margin-bottom: 5%;
+    }
+    
 }
 
 @media (max-width: 767px) {
