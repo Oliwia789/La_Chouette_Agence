@@ -14,4 +14,3 @@ Il nous a été ensuite demandé d'optimiser le site en appliquant nos recommand
 ## Livrables attendus :
 
 Enfin, un rapport d'optimisation devait être fourni, celui-ci devait inclure des comparaisons pour les 10 recommandations.
-
