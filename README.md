@@ -1,6 +1,6 @@
 # La Chouette Agence
 
-Projet 4 de la formation " Développeur web ". Le but est d'optimiser un site web existant.
+Le but du projet est d'optimiser un site web existant.
 Le site web est celui de la chouette agence, une agence de web design qui souhaite améliorer son référencement sur les moteurs de recherche.
 
 ## Analyse de l'état actuel de SEO du site fourni :
